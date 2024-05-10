@@ -4,7 +4,6 @@ This project focuses on implementing algorithms to calculate eigenvalues and eig
 ## Project Structure
 - **`README.md`**: Overview and instructions.
 - **`linear_project.ipynb`**: Jupyter Notebook containing the implementation and explanation of algorithms.
-- **`requirements.txt`**: List of Python libraries required to run the notebook.
 
 ## Project Goals
 1. Implement eigenvalue and eigenvector calculation algorithms.
@@ -16,6 +15,3 @@ Ensure you have the following libraries installed:
 - NumPy
 - Jupyter Notebook (if not already installed, you can install it using `pip install notebook`)
 
-Install other dependencies using:
-```bash
-pip install -r requirements.txt
